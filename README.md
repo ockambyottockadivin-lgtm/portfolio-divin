@@ -1,2 +1,0 @@
-# portfolio-divin
-Développeur web 
